@@ -18,7 +18,7 @@ Before running the bot, make sure you have:
 
 - Node.js (v14 or higher)
 - npm (Node Package Manager)
-- A LayerEdge account (register with referral code: `7FYJLWy2`)
+- A LayerEdge account (register with referral code: `VkWpMgC3`)
 
 ## Registration
 
